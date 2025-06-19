@@ -10,7 +10,7 @@ print(unique(df['Location']), n=100)
 
 # Create a scatter plot of Humidity9am and Temp9am at a location
 
-city = "Perth"
+city = "Brisbane"
 
 scatter_plot = 
 df %>%
